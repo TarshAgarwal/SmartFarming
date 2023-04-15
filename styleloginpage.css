@@ -1,0 +1,29 @@
+body{
+    background-image: url('mesh2.png');
+}
+header{
+    text-align: center;
+}
+main{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+fieldset{
+    margin-top: 8%;
+    padding: 60px;
+    width: fit-content;
+    background: rgba(0, 0, 0, 0.451);
+    box-shadow: 0 8px 32px 0 rgba(42, 138, 8, 0.41);
+    backdrop-filter: blur( 4px );
+    -webkit-backdrop-filter: blur( 4px );
+    border-radius: 10px;
+    border: 1px solid rgba( 255, 255, 255, 0.18 );
+}
+h1 {
+    color: white;
+  }
+p1 {
+    color: white;
+}

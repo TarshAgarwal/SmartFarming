@@ -1,0 +1,30 @@
+h1{
+    text-align: center;
+}
+body{
+    background-image: url('mesh-gradient.png');
+}
+main{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+fieldset{
+    color: black;
+    margin-top: 6%;
+    padding: 20px;
+    width: 500px;
+    height: 500px;
+    background: rgba(127, 126, 126, 0.451);
+    box-shadow: 0 8px 32px 0 rgba(14, 8, 138, 0.676);
+    backdrop-filter: blur( 4px );
+    -webkit-backdrop-filter: blur( 4px );
+    border-radius: 10px;
+    border: 1px solid rgb(0, 0, 0);
+}
+footer {
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
